@@ -42,3 +42,6 @@
 ## Valor imobiliário
 * Os valores de aluguel e compra de imóveis em Curitiba foram obtidos de https://www.imovelweb.com.br/noticias/imovelweb-index/imovelweb-index-um-retrato-mercado-imobiliario-de-curitiba/
 * Em razão da falta de dados, não foram considerados os preços médios de aluguel dos seguintes bairros: Abranches, Augusta, Butiatuvinha, Cascatinha, Caximba, Fanny, Ganchinho, Jardim Social, Jardim das Américas, Lamenha Pequena, Orleans, Riviera, São João, São Lourenço, São Miguel, Taboão, Umbará e Vista Alegre
+
+## Outras características
+* A quantidade de domicílios, habitantes, renda média e área de cada bairro foram obtidas de https://pt.wikipedia.org/wiki/Lista_de_bairros_de_Curitiba
