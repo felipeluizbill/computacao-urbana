@@ -1,0 +1,175 @@
+﻿LOGRADOURO;BAIRRO;LATITUDE;LONGITUDE;TIPO;CATEGORIA
+Rua General Carneiro  904 ; Centro ;-25,4304321;-49,2597004;Ambulatório;Público
+Alameda Nossa Senhora do Sagrado Coração 771 ; Pinheirinho ;-25,527555;-49,291703;Centro de Atenção Psicossocial;Público
+Av, Iguaçu  3681 ; Seminário ;-25,4524279;-49,2961421;Centro de Atenção Psicossocial;Público
+Avenida Governador Jorge Lacerda 687 ; Vila Torres ;-25,4578603;-49,2477155;Centro de Atenção Psicossocial;Público
+R, Carlos de Laet 6270 ; Boqueirão ;-25,4851588;-49,2414671;Centro de Atenção Psicossocial;Público
+Rua Coronel Hoche Pedra Pires   475 ; Seminário ;-25,4537675;-49,3018865;Centro de Atenção Psicossocial;Público
+Rua Eduardo Sprada  4459 ; Campo Comprido ;-25,4466519;-49,3480573;Centro de Atenção Psicossocial;Público
+Rua Holanda 288 ; Bacacheri ;-25,4007937;-49,2438769;Centro de Atenção Psicossocial;Público
+Rua Ilha de Granada  36 ; Jardim Social ;-25,4114021;-49,2368166;Centro de Atenção Psicossocial;Público
+Rua Josefina Rocha   300 ; Batel ;-25,4419041;-49,2971496;Centro de Atenção Psicossocial;Público
+Rua Marcos Bertoldi  100 ; Campo de Santana;-25,58329994;-49,33768982;Centro de Atenção Psicossocial;Público
+Rua Nossa Senhora do Perpétuo Socorro  201 ; Capão Raso ;-25,5095246;-49,2968741;Centro de Atenção Psicossocial;Público
+Rua Nunes Machado  1796 ; Rebouças ;-25,4526614;-49,2683975;Centro de Atenção Psicossocial;Público
+Rua Peru 230 ; Bacacheri ;-25,4052001;-49,2412986;Centro de Atenção Psicossocial;Público
+Avenida Salgado Filho 5265 ; Uberaba ;-25,4885261;-49,223149;Centro de Especialidades Médicas;Público
+Avenida Vereador Toaldo Tulio  2500 ; São Braz ;-25,4126313;-49,3507142;Centro de Especialidades Médicas;Público
+Rua Waldemar Kost 650 ; Hauer ;-25,482168;-49,2454055;Centro de Especialidades Médicas;Público
+Rua Dilermando Pereira  de Almeida  700 ; Pinheirinho ;-25,5289001;-49,2882106;Centro de especialidades Odontológicas;Público
+Rua do Rosário  144 ; São Francisco ;-25,4281717;-49,2729983;Centro de especialidades Odontológicas;Público
+Rua Professor Pedro Viriato Parigot de Souza    5300 ; Cidade Industrial de Curitiba ;-25,4447392;-49,3602709;Centro de especialidades Odontológicas;Público
+ R, Prof, Maria Assumpção 2590 ; Uberaba ;-25,4727759;-49,2192686;Centro de Pronto Atendimento;Público
+Rua Jussara 700 ; Sítio Cercado ;-25,5417318;-49,2558316;Hospital Municipal;Público
+Rua Lothario Boltym  90; Pinheirinho;-25,51026785;-49,29368863;Hospital Municipal;Público
+Rua Primo Lourenço Tosin 1021; Novo Mundo;-25,49455139;-49,30234447;Laboratório Municipal;Público
+Av, Levy Buquera 510 ; Sítio Cercado ;-25,5323406;-49,2671396;Unidade de Pronto Atendimento;Público
+Avenida Paraná 5050 ; Santa Cândida ;-25,3756356;-49,223421;Unidade de Pronto Atendimento;Público
+Rua Adriana Ceres Zago Bueno  1350 ; Tatuquara ;-25,5588526;-49,3412284;Unidade de Pronto Atendimento;Público
+Rua Carlos Klemtz  1883 ; Fazendinha ;-25,4776811;-49,3278174;Unidade de Pronto Atendimento;Público
+Rua Engenheiro Benedito Mario da Silva 555 ; Cajuru ;-25,4693082;-49,20665;Unidade de Pronto Atendimento;Público
+Rua Jorn, Emílio Zolá Florenzano  835; Tatuquara;-25,57630304;-49,33235397;Unidade de Pronto Atendimento;Público
+Rua Leon Nicolas  5 ; Capão Raso ;-25,51511;-49,2939409;Unidade de Pronto Atendimento;Público
+Rua Monsenhor Ivo Zanlorenzi   3495 ; Mossunguê ;-25,4422185;-49,339961;Unidade de Pronto Atendimento;Público
+Rua Senador Accioly Filho  3370 ; Cidade Industrial de Curitiba ;-25,497269;-49,339012;Unidade de Pronto Atendimento;Público
+Avenida Anita Garibaldi 2652 ; São Lourenço ;-25,3911044;-49,2604349;Unidade de Saúde;Público
+Avenida Anita Garibaldi 6814 ; Barreirinha ;-25,3568329;-49,2636086;Unidade de Saúde;Público
+Avenida das Industrias 1749 ; Cidade Industrial de Curitiba ;-25,4976594;-49,3187521;Unidade de Saúde;Público
+Avenida Erasto Gaertner 797 ; Bacacheri ;-25,4007486;-49,2395074;Unidade de Saúde;Público
+Avenida Manoel Ribas  8640 ; Cascatinha ;-25,4135369;-49,3129822;Unidade de Saúde;Público
+Avenida Paraná 3654 ; Bacacheri ;-25,3857981;-49,2328637;Unidade de Saúde;Público
+Rua Carlos Amoretty Osório 169 ; Sítio Cercado ;-25,5447986;-49,2521593;Unidade de Saúde;Público
+Rua Celeste Tortato Gabardo 1712 ; Sítio Cercado ;-25,5433737;-49,277286;Unidade de Saúde;Público
+Rua Coronel  Rivadávia Pereira Moraes 431 ; Xaxim ;-25,507973;-49,271521;Unidade de Saúde;Público
+Rua Coronel Victor Agner Kendrick 80 ; Sítio Cercado ;-25,5348179;-49,2649126;Unidade de Saúde;Público
+Rua Dep. Pinheiro Junior 915; Umbará;-25,55490922;-49,28432783;Unidade de Saúde;Público
+Rua Elbe de Macedo 100 ; Sítio Cercado ;-25,5335419;-49,2801926;Unidade de Saúde;Público
+Rua Expedicionário Francisco Pereira dos Santos 431 ; Alto Boqueirão ;-25,5391841;-49,2480773;Unidade de Saúde;Público
+Rua João Eloy de Souza 111 ; Sítio Cercado ;-25,5269106;-49,2654022;Unidade de Saúde;Público
+Rua Lázaro Borssatto 150; Alto Boqueirão;-25,52887295;-49,24098594;Unidade de Saúde;Público
+Rua Maestro Carlos Frank 785 ; Boqueirão ;-25,5164827;-49,2259708;Unidade de Saúde;Público
+Rua Miguel Rossetim 100 ; Sítio Cercado ;-25,5500331;-49,2489907;Unidade de Saúde;Público
+Rua Nicola Pelanda 4800 ; Umbará ;-25,609002;-49,2772137;Unidade de Saúde;Público
+Rua Ourizona 2250 ; Sítio Cercado ;-25,5413403;-49,2584273;Unidade de Saúde;Público
+Rua Paulo Rio Branco de Macedo 791 ; Sítio Cercado ;-25,5465064;-49,2627902;Unidade de Saúde;Público
+Rua Realeza 259 ; Sítio Cercado ;-25,5376535;-49,2732248;Unidade de Saúde;Público
+Rua Roberto Dala Barba 44; Ganchinho;-25,55788095;-49,26119562;Unidade de Saúde;Público
+Avenida Senador Salgado Filho 5265 ; Uberaba ;-25,4885261;-49,223149;Unidade de Saúde;Público
+Avenida Vereador Toaldo Tulio  4577 ; São Braz ;-25,4286831;-49,353149;Unidade de Saúde;Público
+Rua 24 de Maio  807 ; Parolin ;-25,4659701;-49,2601009;Unidade de Saúde;Público
+Rua Aldo Pinheiro 60 ; Abranches ;-25,3817125;-49,2729285;Unidade de Saúde;Público
+Rua Amauri Lange Silvério  1251 ; Pilarzinho ;-25,3878474;-49,2832368;Unidade de Saúde;Público
+Rua André Ferreira de Camargo 188 ; Xaxim ;-25,4921948;-49,261649;Unidade de Saúde;Público
+Rua Angelo Tosin  100; Campo de Santana;-25,58445769;-49,31955084;Unidade de Saúde;Público
+Rua Antonio Claudino  375 ; Pinheirinho ;-25,5294026;-49,2952034;Unidade de Saúde;Público
+Rua Antonio Escorsin  1960 ; São Braz ;-25,4184901;-49,3478657;Unidade de Saúde;Público
+Rua Araranguá   189 ; Cidade Industrial de Curitiba ;-25,4644059;-49,3410682;Unidade de Saúde;Público
+Rua Arnaud Ferreira Vellozo 200; Cidade Industrial;-25,48405751;-49,3536354;Unidade de Saúde;Público
+Rua Arthur Bernardes  2350; Portão;-25,47088917;-49,29485332;Unidade de Saúde;Público
+Rua Arthur Martins Franco 5516 ; Cidade Industrial de Curitiba ;-25,4949253;-49,3352804;Unidade de Saúde;Público
+Rua Batista da Costa 1163 ; Xaxim ;-25,5151988;-49,279437;Unidade de Saúde;Público
+Rua Berta Klemtz  215 ; Fazendinha ;-25,4848476;-49,3250429;Unidade de Saúde;Público
+Rua Bley Zorning 3136 ; Boqueirão ;-25,508326;-49,2171195;Unidade de Saúde;Público
+Rua Bocaíuva  310 ; Santa Quitéria ;-25,4624938;-49,3043413;Unidade de Saúde;Público
+Rua Canal Belém 6427 ; Vila Torres ;-25,4598869;-49,2490992;Unidade de Saúde;Público
+Rua Capitão Leônidas Marques 1392 ; Uberaba ;-25,4790547;-49,2157695;Unidade de Saúde;Público
+Rua Carlos Munhoz da Rocha  629 ; Tatuquara ;-25,5653594;-49,3390054;Unidade de Saúde;Público
+Rua Cataratas do Iguaçu 192 ; Atuba ;-25,3835291;-49,1980004;Unidade de Saúde;Público
+Rua Cezinando Dias Parede 1096; Boqueirão;-25,50800259;-49,22197882;Unidade de Saúde;Público
+Rua Conde dos Arcos  295 ; Lindóia ;-25,479723;-49,2775735;Unidade de Saúde;Público
+Rua Delegado Bruno de Almeida  7881 ; Tatuquara ;-25,5652303;-49,315154;Unidade de Saúde;Público
+Rua Delegado Miguel Zacarias 403 ; Boa Vista ;-25,3800044;-49,2459018;Unidade de Saúde;Público
+Rua Des, CId Campelo  8060 ; Cidade Industrial de Curitiba ;-25,4802283;-49,3367897;Unidade de Saúde;Público
+Rua Divina Providência  1445 ; Santa Quitéria ;-25,461898;-49,3166471;Unidade de Saúde;Público
+Rua Domicio da Costa 52 ; Xaxim ;-25,510322;-49,2565573;Unidade de Saúde;Público
+Rua Durval Leopolpo Landal 1529; Cidade Industrial;-25,49330694;-49,34930257;Unidade de Saúde;Público
+Rua Eloy de Assis Fabris  634 ; Novo Mundo ;-25,4902577;-49,283;Unidade de Saúde;Público
+Rua Emídio Nonato da Silva  45 ; Cidade Industrial de Curitiba ;-25,5046078;-49,3249503;Unidade de Saúde;Público
+Rua Emilia Erichsen 45 ; Cidade Industrial de Curitiba ;-25,4538869;-49,3551151;Unidade de Saúde;Público
+Rua Emílio Romani    2684 ; Cidade Industrial de Curitiba ;-25,5302244;-49,3354421;Unidade de Saúde;Público
+Rua Engenheiro João Vizinoni 458; Cidade Industrial;-25,43926213;-49,36032512;Unidade de Saúde;Público
+Rua Eunice Betini Bartoszeck 1287 ; Uberaba ;-25,4852182;-49,2031916;Unidade de Saúde;Público
+Rua Fanny Bertoldi  170 ; Campo de Santana;-25,59126439;-49,34043034;Unidade de Saúde;Público
+Rua Francisco Nowotarski  78 ; Fazendinha ;-25,4784139;-49,3183237;Unidade de Saúde;Público
+Rua Frederico Escorsin  314 ; São Braz ;-25,4192357;-49,3607353;Unidade de Saúde;Público
+Rua Gastão Natal Simone 0 5 ; Cidade Industrial de Curitiba ;-25,5153456;-49,3290117;Unidade de Saúde;Público
+Rua General Mário Tourinho  1684 ; Seminário ;-25,4519848;-49,3044409;Unidade de Saúde;Público
+Rua Isaias Ferreira da Silva 150 ; Cajuru ;-25,4771669;-49,1958106;Unidade de Saúde;Público
+Rua Ivone do Espírito Santo Garcia 100 ; Uberaba ;-25,4954377;-49,206437;Unidade de Saúde;Público
+Rua Jaime Reis  331 ; São Francisco ;-25,4263669;-49,2771852;Unidade de Saúde;Público
+Rua Joanna Emma Dalpozzo Zardo  370 ; Santa Felicidade ;-25,3891127;-49,3326772;Unidade de Saúde;Público
+Rua João Batista Bettega Jr, 0 ; Tatuquara ;-25,5636248;-49,3089024;Unidade de Saúde;Público
+Rua João Batista Burbelo  12; Tatuquara;-25,554057;-49,29423453;Unidade de Saúde;Público
+Rua João Mequetti 389 ; Santa Cândida ;-25,3767466;-49,237842;Unidade de Saúde;Público
+Rua Jornalista Alceu Chochorro 314; Bairro Alto;-25,41399324;-49,20515819;Unidade de Saúde;Público
+Rua José Casagrande  220 ; Vista Alegre ;-25,4135688;-49,3012196;Unidade de Saúde;Público
+Rua José Ursolino Filho 614 ; Santa Cândida ;-25,3614023;-49,23188;Unidade de Saúde;Público
+Rua José Veríssimo 1352 ; Bairro Alto ;-25,4236482;-49,2019281;Unidade de Saúde;Público
+Rua Jovenilson Americo de Oliveira  240 ; Tatuquara ;-25,5589008;-49,3313455;Unidade de Saúde;Público
+Rua Ladislau Mikosz 149 ; Cajuru ;-25,468263;-49,1992774;Unidade de Saúde;Público
+Rua Laudelino Ferreira  Lopes  1801 ; Capão Raso ;-25,5068987;-49,3045659;Unidade de Saúde;Público
+Rua Laudelino Ferreira Lopes  2959 ; Capão Raso ;-25,5068987;-49,3045659;Unidade de Saúde;Público
+Rua Manoel Martins de Abreu  830 ; Vila Torres ;-25,4496221;-49,2470985;Unidade de Saúde;Público
+Rua Maria Marques de Camargo 119 ; Alto Boqueirão ;-25,5359803;-49,2317514;Unidade de Saúde;Público
+Rua Miguel de Lazari  85; Pilarzinho;-25,39274615;-49,2906047;Unidade de Saúde;Público
+Rua Nelson Ferreira da Luz 145 ; Campo Comprido ;-25,4571515;-49,3251614;Unidade de Saúde;Público
+Rua Nicolau Salomão 671 ; Tingui ;-25,383343;-49,2232466;Unidade de Saúde;Público
+Rua Olivio José Rosetti  538; Tatuquara;-25,57480509;-49,33515689;Unidade de Saúde;Público
+Rua Paul Garfunkel   2000 ; Cidade Industrial de Curitiba ;-25,5518067;-49,3334788;Unidade de Saúde;Público
+Rua Pedro Andretta  3030 ; São Miguel ;-25,5011166;-49,3492643;Unidade de Saúde;Público
+Rua Pedro Bochino 750; Cajuru;-25,45225781;-49,21765687;Unidade de Saúde;Público
+Rua Pedro Gusso  3749 ; Cidade Industrial de Curitiba ;-25,5121341;-49,3237843;Unidade de Saúde;Público
+Rua Pedro Gusso  866 ; Cidade Industrial de Curitiba ;-25,4980592;-49,3082701;Unidade de Saúde;Público
+Rua Pedro Nabosne 57 ; Alto Boqueirão ;-25,5406859;-49,2404057;Unidade de Saúde;Público
+Rua Pedro Violani 364 ; Cajuru ;-25,4588093;-49,2061537;Unidade de Saúde;Público
+Rua Piraí do Sul  280 ; Augusta ;-25,4558873;-49,3784863;Unidade de Saúde;Público
+Rua Primo Lourenço Tosin  21 ; Novo Mundo ;-25,4847523;-49,3023331;Unidade de Saúde;Público
+Rua Professor Julio Teodorico Guimarães  337; Pinheirinho;-25,52713179;-49,27081846;Unidade de Saúde;Público
+Rua Professor Nivaldo Braga 1571 ; Capão da Imbuia ;-25,4341112;-49,2178327;Unidade de Saúde;Público
+Rua Professora Hilda Hank Gonçalves  435; Cidade Industrial;-25,47505491;-49,34345849;Unidade de Saúde;Público
+Rua René Descartes 537 ; Abranches ;-25,3679709;-49,2686348;Unidade de Saúde;Público
+Rua Rio Pelotas 820 ; Atuba ;-25,3946317;-49,2041086;Unidade de Saúde;Público
+Rua Robert Redzinski 222; Cidade Industrial;-25,45233191;-49,3536407;Unidade de Saúde;Público
+Rua Romeu Bach 80 ; Boqueirão ;-25,4973327;-49,2278431;Unidade de Saúde;Público
+Rua Roraima 1790 ; Cajuru ;-25,4519001;-49,2059617;Unidade de Saúde;Público
+Rua Santa Gema Galgani 353 ; Barreirinha ;-25,364078;-49,2634853;Unidade de Saúde;Público
+Rua Santa Madalena Sofia Barat 725 ; Bairro Alto ;-25,4127225;-49,2163349;Unidade de Saúde;Público
+Rua Santa Regina  667 ; Capão Raso ;-25,5021951;-49,2896287;Unidade de Saúde;Público
+Rua São Paulo  1495 ; Água Verde ;-25,4632599;-49,2792472;Unidade de Saúde;Público
+Rua Sebastião Marcos Luiz 1197 ; Cajuru ;-25,464072;-49,2123482;Unidade de Saúde;Público
+Rua Sergipe  59 ; Guaíra ;-25,474625;-49,2818731;Unidade de Saúde;Público
+Rua Theofhilo Mansur  500; Novo Mundo;-25,49126937;-49,3087243;Unidade de Saúde;Público
+Rua Voltaire 139 ; Barreirinha ;-25,3782459;-49,2563786;Unidade de Saúde;Público
+Rua Waldemar Kost 650 ; Hauer ;-25,482168;-49,2454055;Unidade de Saúde;Público
+Via Veneto  10 ; Santa Felicidade ;-25,4046391;-49,324816;Unidade de Saúde;Público
+Centro Hospitalar Nossa Saúde;Mercês;-25,42028815;-49,2922398;Hospital;Privado
+Centro Hospitalar Onix;Batel;-25,44233976;-49,29800131;Hospital;Privado
+Centro Hospitalar Onix;São Lourenço;-25,4048207;-49,27079298;Hospital;Privado
+Hospital Cardiológico Constantini;Vila Izabel;-25,46313807;-49,29962974;Hospital;Privado
+Hospital Cruz Vermelha;Centro;-25,43780627;-49,28876811;Hospital;Privado
+Hospital das Nações;Jardim Social;-25,42834905;-49,24057897;Hospital;Privado
+Hospital de Clínicas;Alto Da Glória;-25,42420903;-49,2619478;Hospital;Privado
+Hospital de Olhos do Paraná;Centro;-25,42998712;-49,27945774;Hospital;Privado
+Hospital do Coração;Batel;-25,43786078;-49,28684422;Hospital;Privado
+Hospital Erasto Gaertner;Jardim das Americas;-25,45338986;-49,238806;Hospital;Privado
+Hospital Iguaçu;Agua Verde;-25,45092692;-49,2920164;Hospital;Privado
+Hospital Infantil Pequeno Principe;Água Verde;-25,44565674;-49,27620523;Hospital;Privado
+Hospital IPO;Água Verde;-25,46495743;-49,29084537;Hospital;Privado
+Hospital Madalena Sofia;Bairro Alto;-25,41746485;-49,2205665;Hospital;Privado
+Hospital Marcelino Champagnat;Cristo Rei;-25,43597126;-49,24628643;Hospital;Privado
+Hospital Menino Deus;Alto da XV;-25,42789013;-49,24548577;Hospital;Privado
+Hospital Milton Muricy;Vila Izabel;-25,45535195;-49,29774097;Hospital;Privado
+Hospital Nossa Senhora das Graças;Mercês;-25,42187591;-49,29076952;Hospital;Privado
+Hospital Novo Mundo;Novo Mundo;-25,48695609;-49,29452984;Hospital;Privado
+Hospital Pilar;Bom Retiro;-25,4155308;-49,2789642;Hospital;Privado
+Hospital Santa Brigida;Água Verde;-25,46190973;-49,2882599;Hospital;Privado
+Hospital Santa Casa Curitiba;Centro;-25,4378491;-49,2727627;Hospital;Privado
+Hospital Santa Cruz;Batel;-25,44461438;-49,29085775;Hospital;Privado
+Hospital São Lucas;Juvevê;-25,41178285;-49,25713967;Hospital;Privado
+Hospital São Vicente;Água Verde;-25,43531971;-49,28015073;Hospital;Privado
+Hospital Sugisawa;Rebouças;-25,44316531;-49,27336759;Hospital;Privado
+Hospital Universitário Mackenzie;Bigorrilho;-25,43429225;-49,29228783;Hospital;Privado
+Hospital VITA;Batel;-25,43767994;-49,28688909;Hospital;Privado
+Hospital VITA Linha Verde;Bairro Alto;-25,40756985;-49,21775124;Hospital;Privado
+Hospital Vitória;Cidade Industrial;-25,49657776;-49,31794408;Hospital;Privado
+Hospital XV;Alto da XV;-25,42660225;-49,25275471;Hospital;Privado
