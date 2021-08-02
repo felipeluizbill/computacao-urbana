@@ -45,3 +45,11 @@
 
 ## Outras características
 * A quantidade de domicílios, habitantes, renda média e área de cada bairro foram obtidas de https://pt.wikipedia.org/wiki/Lista_de_bairros_de_Curitiba
+
+## Legendas dos mapas
+* Educação: vermelho para escolas particulares; azul, públicas
+* Lazer: verde para espaços públicos (parques, bosques e bibliotecas); roxo, particulares (cinemas, teatros, espaços para shows e clubes)
+* Saúde: verde para unidades de saúde públicas; rosa, particulares
+* Segurança: vermelho para crimes contra a vida; cinza, crimes contra o patrimônio
+* Transporte: cinza para ciclovias; azul para estações-tubo
+* Zoneamento: azul para comércio; amarelo, indústria
